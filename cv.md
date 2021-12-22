@@ -1,5 +1,7 @@
 # Diana Abdykassenova
 
+![photo](/img/photo.png "My photo")
+
 ## Contact
 
 - **Phone:** +7 707 3284699
