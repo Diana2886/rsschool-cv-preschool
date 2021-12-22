@@ -41,3 +41,11 @@ function getParticipants(handshakes) {
 * https://infallible-heisenberg-a3d65d.netlify.app/
 In that projects I used fixed and adaptive layout, worked with Document Object Model in JavaScript
 
+## Education
+
+- Karagandy State Technical University, Systems Engineer
+- Online learning
+
+## English level
+
+B1 - Intermediate
