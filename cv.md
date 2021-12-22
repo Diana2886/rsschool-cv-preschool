@@ -39,8 +39,8 @@ function getParticipants(handshakes) {
 
 - Chief specialist in a government organization
 - I have a little experience of site layout from the RSSchool Front-end 2021Q3 course:
-    * https://rolling-scopes-school.github.io/diana2886-JSFE2021Q3/museum-dom/
-    * https://infallible-heisenberg-a3d65d.netlify.app/
+    * Museum - https://rolling-scopes-school.github.io/diana2886-JSFE2021Q3/museum-dom/
+    * Momentum - https://infallible-heisenberg-a3d65d.netlify.app/
 In that projects I used fixed and adaptive layout, worked with Document Object Model in JavaScript
 
 ## Education
