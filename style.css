@@ -42,8 +42,7 @@ body {
   color: #48342C;
 }
 
-.header,
-.footer {
+.header {
   background-color: #984787;
 }
 
@@ -243,4 +242,25 @@ code {
 
 .section-education, .section-english {
   border-bottom: 0;
+}
+
+.footer {
+  background-color: #984787;;
+  padding: 20px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+.rss {
+  width: 121px;
+  height: 45px;
+  background-image: url(./assets/svg/rss.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
